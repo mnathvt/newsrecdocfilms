@@ -78,7 +78,7 @@ plt.ylabel('# of films', **axis_font)
 plt.xticks(**axis_tick_font)
 plt.yticks(**axis_tick_font)
 plt.xticks(np.arange(2000, 2021, 2))
-plt.savefig('film_freq.pdf')
+#plt.savefig('film_freq.pdf')
 plt.savefig('film_freq1.pdf')
 
 
