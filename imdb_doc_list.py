@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#check if the string is in English
 def isEnglish(s):
     try:
         s.encode('ascii')
@@ -19,8 +19,8 @@ def isEnglish(s):
     else:
         return True
     
-    
-f = pd.read_table('Documents/Insight/title.basics.tsv')
+#reads the     
+f = pd.read_table('title.basics.tsv')
 
 f[['tconst', 'genres']].groupby('genres')
 
