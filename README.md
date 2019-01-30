@@ -6,7 +6,7 @@ Total number of entries in this file: 5570541
 Total number of documentary entries: 95532
 That is, 1.715% of this movie list is documentaries (titles in both English and other languages).
 
-For this work, selected only those titles which are written in English and in the year range 1950-present (2019).
+For this work, selected only those titles which are written in English and in the year range 1970-present (2019), last ~50 years.
 The file imdb_doc_list.csv contains imdb_id, titles, year for documentary films.
 
 
