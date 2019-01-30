@@ -7,10 +7,14 @@ Total number of documentary entries: 95532
 That is, 1.715% of this movie list is documentaries (titles in both English and other languages).
 
 For this work, selected only those titles which are written in English and in the year range 1970-present (2019), last ~50 years.
-The file imdb_doc_list.csv contains imdb_id, titles, year for documentary films.
+The file imdb_doc_list.csv contains imdb_id, titles, year for documentary films. There are ~52,000+ titles.
 
 
 Used Google pre-trained word2vec model (available https://code.google.com/archive/p/word2vec/).
 
 The plots show the increase of number of documentary films over the years, there is a steep increase since 2010.
 The plot goes down to 0 for 2020, because of no records! 
+
+
+
+Considered only the start year of the films. 
